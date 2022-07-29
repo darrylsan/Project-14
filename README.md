@@ -19,7 +19,7 @@
 
 ## Time taken to finish this project
 
--   7 hour taken to complete it with all tweaks like which font to use how much padding & margin to give :).
+-   7 hour taken to complete it with all tweaks like which font to use how much padding & margin to give.
 
 #### Screenshot
 
